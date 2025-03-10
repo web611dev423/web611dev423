@@ -1,7 +1,7 @@
 ###
 
 <h1 align="center">Senior FullStack & Blockchain Engineer</h1>
-<hr/>
+
 - 🌱 Senior Full stack & Automation Expert.
 
 - 🌱 Major Experiences
@@ -15,8 +15,6 @@
     • Trading Bot Development with MT4,MT5, IBKR, SieraChart, TradingView, TradeStation, NinjaTrader.
     • AI Development with Chatbot, AI Agent, NLP, LLM, ML, Image/voice detection.
   
-
-
 <br clear="both" />
 
 <div align="center">
@@ -30,15 +28,12 @@
     alt="languages graph" />
 </div>
 
-
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranav-bhatkar&area=true&hide_border=true&theme=github-dark" height="400" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Senior Full-Stack Developement&area=true&hide_border=true&theme=github-dark" height="400" alt="activity-graph graph"  />
 </div>
-
 ###
 
 ###
