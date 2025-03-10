@@ -4,7 +4,7 @@
 <hr/>
 <p align="left" fontsize="14"> <img src="https://komarev.com/ghpvc/?username=aidenwong812&label=Profile%20views&color=0e75b6&style=flat" alt="highgoal215" /> </p>
 
-- 🌱 Senior Full stack & Blockchain Engineer.
+- 🌱 Senior Full stack & Automation Expert.
 
 - 🌱 Major Experiences
 
