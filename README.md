@@ -32,7 +32,7 @@
 
 ###
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Senior Full-Stack Developement&area=true&hide_border=true&theme=github-dark" height="400" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranav-bhatkar&area=true&hide_border=true&theme=github-dark" height="400" alt="activity-graph graph"  />
 </div>
 ###
 
