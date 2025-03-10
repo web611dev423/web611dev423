@@ -43,29 +43,6 @@
 
 ###
 
-<!-- <br clear="both" />
-<h1 align="center"></h1>
-<br clear="both" />
-<div align="center">
-  <img src="./images/Untitled.png">
-  <img src="./images/2.png">
-
-<br clear="both" />
-<h1 align="center">Trading Strategy</h1> -->
-<!-- <br clear="both" />
-  <img src="./images/Ninjatrading.PNG">
-  <hr/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=highgoal215&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
-//  <hr/> -->
-<!--   <img src="https://raw.githubusercontent.com/noahsim222/noahsim222/output/github-contribution-grid-snake.svg"> -->
-</div>
-<div align="center">
-  <hr/>
-  <img src="https://github-profile-trophy.vercel.app/?username=highgoal215&theme=flat&no-frame=false&no-bg=false&margin-w=4">
-  <hr/>
-  <img src="./metrics.plugin.achievements.compact.svg" width="1000">
-</div>
-
 ###
 
 <h2 align="center">Popular Software Tools & Programming Languages</h2>
