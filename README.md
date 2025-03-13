@@ -22,19 +22,10 @@
     src="https://github-readme-stats.vercel.app/api/top-langs?username=highgoal215&locale=en&hide_title=true&layout=compact&card_width=420&langs_count=8&theme=dracula&hide_border=true&order=2"
     height="175"
     alt="languages graph" />
-  <img
-    src="https://streak-stats.demolab.com/?user=highgoal215&theme=neon&hide_border=true&card_width=420"
-    height="175"
-    alt="languages graph" />
 </div>
 
 <h3 align="left">🔥   My Stats :</h3>
 
-###
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranav-bhatkar&area=true&hide_border=true&theme=github-dark" height="400" alt="activity-graph graph"  />
-</div>
-###
 
 ###
 
