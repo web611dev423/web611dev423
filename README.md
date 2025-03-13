@@ -23,7 +23,6 @@
     height="175"
     alt="languages graph" />
 </div>
-###
 
 <h2 align="center">Popular Software Tools & Programming Languages</h2>
 
